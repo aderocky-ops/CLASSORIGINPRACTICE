@@ -1,0 +1,7 @@
+class assessment 
+WHAT DOES DEVOPS MEAN TO YOU 
+Devops is the gap between developers and servers .A devops engineer makes sure everything is working well on the server. 
+In summary, a devops engineer manages servers. Thank you.
+
+what happens when you visit a website.
+when i visit a website the first thing i see is the landing page.
